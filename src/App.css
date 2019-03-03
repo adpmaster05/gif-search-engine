@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.search-results {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.search-results > img {
+  margin: 10px 10px 10px 0;
+  display: block;
+  float: left;
+  width: 175px;
+  height: 175px;
+  cursor: pointer;
+}
+.gif-lightbox {
+  display: block;
+  position: absolute;
+}

@@ -1,0 +1,21 @@
+.search-button {
+    background-color: 'rgb(236, 233, 233)';
+    color: 'black';
+    height: 34px;
+    width: 190px;
+    border-width: 0px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.search-button:hover {
+    background-color: #BDBDBD !important;
+    cursor: pointer;
+}
+.text-field {
+    height: 32px;
+    width: 400px;
+    border-radius: 3px;
+    border-width: 1px;
+    font: '18px arial,sans-serif';
+}
